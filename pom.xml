@@ -17,6 +17,6 @@
   </dependencies>
   <build>
     <finalName>webapplication</finalName>
-    <directory>buildlocation</directory>
+    <!--<directory>buildlocation</directory>-->
   </build>
 </project>
